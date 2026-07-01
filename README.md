@@ -4,10 +4,10 @@ Client-side payload library and cheatsheet for authorised security testing.
 Browse a curated catalogue of payloads, build parameterised reverse shells and
 apply encoders — **entirely in the browser**. There is no backend.
 
-Part of the [project hub](https://sergiogbernardo.github.io/), alongside
-[Bytevg](https://sergiogbernardo.github.io/Bytevg/),
-[Scanvg](https://sergiogbernardo.github.io/Scanvg/) and
-[Loghivevg](https://sergiogbernardo.github.io/Loghivevg/).
+Part of the [project hub](https://sabion.io/), alongside
+[Bytevg](https://sabion.io/Bytevg/),
+[Scanvg](https://sabion.io/Scanvg/) and
+[Loghivevg](https://sabion.io/Loghivevg/).
 
 > **Intended use:** authorised penetration testing, CTFs and security education.
 > The payloads are public cheatsheet content; using them against systems you do
